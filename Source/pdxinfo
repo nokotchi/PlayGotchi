@@ -1,0 +1,5 @@
+name=PlayGotchi
+author=nokotchi
+description=Tamagotchi emulator for the Playdate
+bundleID=com.nokotchi.playgotchi
+imagePath=
