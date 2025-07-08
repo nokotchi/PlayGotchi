@@ -4,7 +4,7 @@ PlayGotchi is a Tamagotchi P1 emulator for the Playdate relying on the hardware 
 
 ![Simulator screenshot](images/simulator.png)
 
-PlayGotchi being an emulator.</br>
+PlayGotchi is an emulator.</br>
 It requires a compatible Tamagotchi P1 ROM named rom.bin and placed in the Source/ folder if you build from sources.</br>
 If you use the release, just place rom.bin in the playgotchi.pdx folder.</br>
 You have to find it yourself.
